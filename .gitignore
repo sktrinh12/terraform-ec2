@@ -33,3 +33,6 @@ terraform.rc
 
 # ignore ansible
 ansible
+
+# ignore contents of tfvars
+tfvars/*
